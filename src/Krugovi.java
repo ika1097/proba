@@ -43,7 +43,6 @@ public class Krugovi extends Application {
 
         });
 
-
         root.getChildren().add(btnDodaj);
 
         Scene scene=new Scene(root,800,800);
